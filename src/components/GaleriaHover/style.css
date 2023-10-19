@@ -16,19 +16,19 @@ section{
     z-index: 1;
 }
 .img1{
-    --img: url("../../../public/img/GaleriaHover/arena.webp");
+    --img: url("../../../public/img/ImgArtifice/ARENA/5.webp");
 }
 .img2{
-    --img: url("../../../public/img/GaleriaHover/primavera.webp");
+    --img: url("../../../public/img/ImgArtifice/PRIMAVERA/primavera.webp");
 }
 .img3{
-    --img: url("../../../public/img/GaleriaHover/river.webp");
+    --img: url("../../../public/img/ImgArtifice/RIVER/IMG_3819.webp");
 }
 .img4{
-    --img: url("../../../public/img/GaleriaHover/mar.webp");
+    --img: url("../../../public/img/ImgArtifice/MAR/IMG_0855.webp");
 }
 .img5{
-    --img: url("../../../public/img/GaleriaHover/faro.webp");
+    --img: url("../../../public/img/ImgArtifice/FARO/IMG_3955.webp");
 }
 
 .box{
