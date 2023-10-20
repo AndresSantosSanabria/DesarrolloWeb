@@ -8,7 +8,7 @@ const BloqueTexto = () => {
             </Seccion>
         </>
     )
-}
+} 
 
 export default BloqueTexto;
 
