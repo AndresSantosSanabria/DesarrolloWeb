@@ -9,7 +9,6 @@ function Home() {
         <SliderHome></SliderHome>
         <GaleriaHover></GaleriaHover>
         <ContenedorBloques numero = "2"></ContenedorBloques>
-        
         </>
     );
 }

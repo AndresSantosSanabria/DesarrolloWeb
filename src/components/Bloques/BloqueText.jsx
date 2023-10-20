@@ -8,7 +8,7 @@ const BloqueTexto = () => {
                         <div className="BloqueCuadroInterno">
                             
                         
-                    </div>
+                    </div> 
                     <div className="BloqueTexto">
                         <h1>QUIÉNES SOMOS</h1>
                         <h3>Una experiencia 100% integral</h3>

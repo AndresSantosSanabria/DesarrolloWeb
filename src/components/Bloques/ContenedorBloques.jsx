@@ -13,7 +13,7 @@ function ContenedorBloques(props) {
             return a
         }
     }
-    const Completar=()=>{
+    const Completar=()=>{ 
         if (props.numero === "1") {
             let a = <BloqueImg></BloqueImg>
             return a 

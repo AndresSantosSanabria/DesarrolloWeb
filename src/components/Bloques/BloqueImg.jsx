@@ -7,7 +7,7 @@ const Bloque = () => {
                 <div className="Bloqueder">
                     <div className="BloqueCuadroInterno">
                         
-                    </div>
+                    </div> 
                     <div className="BloqueImg">
                         </div>
                 </div>
