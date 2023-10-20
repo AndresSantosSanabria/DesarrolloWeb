@@ -1,4 +1,5 @@
-import Bloque from "../components/Bloques/Bloque"
+
+import ContenedorBloques from "../components/Bloques/ContenedorBloques";
 import GaleriaHover from "../components/GaleriaHover/GaleriaHover";
 import SliderHome from "../components/SliderHome/SliderHome";
 
@@ -7,7 +8,8 @@ function Home() {
         <>
         <SliderHome></SliderHome>
         <GaleriaHover></GaleriaHover>
-        <Bloque></Bloque>
+        <ContenedorBloques numero = "2"></ContenedorBloques>
+        
         </>
     );
 }
